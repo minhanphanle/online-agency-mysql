@@ -1,5 +1,11 @@
 # Online Travel Agency Management System MySQL script &amp; report
 
+<img width="607" alt="image" src="https://github.com/minhanphanle/online-agency-mysql/assets/83915952/3d4ba241-5a9a-499b-868d-2453be951f55">
+
+<img width="711" alt="image" src="https://github.com/minhanphanle/online-agency-mysql/assets/83915952/e429840c-2899-4a65-abda-58f86831ab53">
+
+
+
 The project’s topic is a management system of an online travel agency named The Crusaders, embarked at Ho Chi Minh City. The Crusaders is a web-based service provider specializing in ecotourism, which offers cultural and natural experience tours, and accessories rental such as backpacks or tents. This project will facilitate the executive team including managers, marketing & sales team, and the customer support team of The Crusaders in overseeing their business operations effectively, while enhancing the interaction between their customers and their team significantly
 
 ## Project's scope
